@@ -1,0 +1,16 @@
+com\domaci\savajeremic\config\MessagingListenerConfiguration.class
+com\domaci\savajeremic\messaging\MessageSender.class
+com\domaci\savajeremic\controller\IndexController.class
+com\domaci\savajeremic\config\MessagingConfiguration.class
+com\domaci\savajeremic\messaging\MessageSender$1.class
+com\domaci\savajeremic\model\Order.class
+com\domaci\savajeremic\service\OrderService.class
+com\domaci\savajeremic\util\IdUtil.class
+com\domaci\savajeremic\messaging\MessageReceiver.class
+com\domaci\savajeremic\service\OrderRepository.class
+com\domaci\savajeremic\model\InventoryResponse.class
+com\domaci\savajeremic\service\OrderRepositoryImpl.class
+com\domaci\savajeremic\service\OrderServiceImpl.class
+com\domaci\savajeremic\config\AppConfig.class
+com\domaci\savajeremic\model\OrderStatus.class
+com\domaci\savajeremic\config\AppInitializer.class

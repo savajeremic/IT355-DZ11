@@ -1,0 +1,47 @@
+body, #mainWrapper {
+    height: 100%;
+    background-color:rgb(245, 245, 245);
+}
+
+body, .form-control{
+    font-size:12px!important;
+}
+
+.floatRight{
+    float:right;
+    margin-right: 18px;
+}
+
+.has-error{
+    color:red;
+}
+
+.generic-container {
+    position:fixed;
+    width:60%;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #EAE7E7;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 0 30px black;
+}
+
+.form {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 390px;
+    min-width: 200px;
+    font-size: 13px;
+    line-height: 1.5em;
+    text-align: center;
+    color: rgb(89, 89, 89);
+    padding: 30px 15px;
+    background: rgb(222, 222, 222);
+}
+
+.custom-width {
+    width: 80px !important;
+}
